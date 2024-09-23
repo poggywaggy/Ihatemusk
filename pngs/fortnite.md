@@ -5,7 +5,7 @@
 <ul>
   <li>organirce</li>
   <li>2. awesrome</li>
-  ![naaurtte](/pngs/screenshot.png)
+  <li>![naaurtte](/pngs/screenshot.png)</li>
   <li>3. yeyeyayayayay</li>
 </ul> 
 <br>  
